@@ -6,3 +6,5 @@ INSERT INTO member VALUES ('밍보');
 INSERT INTO member VALUES ('홍길동');
 
 select * from MEMBER;
+
+insert into member values('정봄');
